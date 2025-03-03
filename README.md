@@ -31,9 +31,9 @@ Land my first developer role and grow within a great tech team.
 
 <h3>📬 Let's Connect</h3>
 
-<p>I'm open to collaboration, networking, and job opportunities! Feel free to reach out:</p>
+I'm open to collaboration, networking, and job opportunities! Feel free to reach out:
 
-<a href="www.linkedin.com/in/malek-chenennaoui-073269161">LinkedIn</a>
+LinkedIn
 
 Email: Malekchenenaoui@gmail.com
 
