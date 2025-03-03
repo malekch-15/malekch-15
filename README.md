@@ -33,7 +33,7 @@ Land my first developer role and grow within a great tech team.
 
 I'm open to collaboration, networking, and job opportunities! Feel free to reach out:
 
-LinkedIn
+LinkedIn:www.linkedin.com/in/malek-chenennaoui-073269161
 
 Email: Malekchenenaoui@gmail.com
 
