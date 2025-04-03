@@ -2,7 +2,7 @@
 
 <h2>🌟 About Me</h2>
 
-<p>I'm a Junior Web Developer with a passion for building user-friendly and meaningful applications. My journey into development started from a deep curiosity and love for technology while working in Marketing. Collaborating closely with IT teams gave me the spark to pursue my true dream—becoming a Java Developer! 🚀</p>
+<p>I'm a Junior Web Developer with a passion for building user-friendly and meaningful applications. My journey into development started from a deep curiosity and love for technology while working in Marketing. Collaborating closely with IT teams gave me the spark to pursue my true dream—becoming a Web Developer! 🚀</p>
 
 <p>I took a bold step, transitioned from Marketing to Tech, and completed an intensive Java Developer Bootcamp. Now, I’m excited to grow further in this field, constantly learning, improving, and taking on new challenges.</p>
 
